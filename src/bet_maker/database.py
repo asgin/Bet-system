@@ -9,3 +9,4 @@ Base = declarative_base()
 async def get_db():
     async with session() as db:
         yield db
+        

@@ -19,3 +19,4 @@ class BaseService(BaseBetInterface):
     @abstractmethod
     async def get_actually_events(self, *args, **kwargs):
         raise NotImplementedError
+    
