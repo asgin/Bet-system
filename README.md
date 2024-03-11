@@ -6,7 +6,7 @@
  >DB_NAME=bet_system\
  >DB_USER=qqqq\
  >DB_PASSWORD=123\
- >DB_PORT=5432\
+ >DB_PORT=5432
 ### После этого пропишите docker-compose up --build для сборки и запуска проекта.
 ### http://localhost:8001/docs для документации сервиса bet_maker и http://localhost:8080/docs для документации сервиса line_provider.
 Общая информация
